@@ -1,3 +1,11 @@
+# slack-clone
+
+Slack Clone using REACT JS
+
+## Demo
+
+https://slack-clone-843fc.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
